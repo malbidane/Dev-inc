@@ -1,0 +1,32 @@
+@media (max-width:767px) {
+
+    .navbar-inverse .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .carousel-inner {
+        margin-top: -20px;
+    }
+
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 397px;
+    }
+
+    .price .price-box {
+        max-width: 300px;
+        margin-left: 15%;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .subscribe .form-control {
+        margin: 20px auto;
+        width: 300px;
+        display: inline-block;
+    }
+    .foot{
+        text-align: center;
+    }
+}

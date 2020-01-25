@@ -1,0 +1,38 @@
+/*Start Default Theme*/
+.Testimonial .carousel-indicators li.active,
+.colors-option .colors {
+    border: 3px solid #e41b17;
+}
+
+.colors-option .gear-check,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.carousel-indicators li.active {
+    background-color: #e41b17;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    border-top: 3px solid #e41b17;
+}
+
+.navbar-inverse .navbar-brand span,
+.about span,
+.features .feat span.glyphicon,
+.price .price-box p,
+.statistic .stat i,
+.contact-us .overlay i,
+.red,
+.scroll-Top,
+.breadcrumb li.active a,
+.About-feature i{
+
+
+    color: #e41b17;
+}
+
+.price .price-box:hover p {
+    box-shadow: 2px 2px 2px 2px #e41b17;
+}

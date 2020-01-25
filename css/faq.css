@@ -1,0 +1,37 @@
+body {
+    padding-top: 70px;
+    background-color: rgba(5, 3, 5, 0.986);
+    overflow: auto;
+}
+
+.faq {
+    padding: 30px 0;
+}
+
+.faq h1 {
+    padding: 20px 0;
+}
+
+.Frequntly-question {
+    padding: 30px 0;
+}
+
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #111;
+    border: none;
+    padding: 20px;
+}
+
+.panel-default>.panel-heading a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    background-color: #222;
+    color: #fff;
+    border: none;
+    padding: 20px;
+
+}
